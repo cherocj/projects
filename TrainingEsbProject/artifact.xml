@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="test" groupId="ke.co.telkom.Project.TrainingEsbProject.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/test.xml</file>
+    </artifact>
+    <artifact name="TrainingFirstRestApi" groupId="ke.co.telkom.Project.TrainingEsbProject.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/TrainingFirstRestApi.xml</file>
+    </artifact>
+    <artifact name="TrainingFirstRestApi" groupId="ke.co.telkom.Project.TrainingEsbProject.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/TrainingFirstRestApi.xml</file>
+    </artifact>
+</artifacts>
